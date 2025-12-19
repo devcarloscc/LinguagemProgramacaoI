@@ -2,8 +2,8 @@
 Disciplina de Linguagem de Programação I - Curso de Licenciatura em Computação - Universidade Estadual do Ceará
 
 - Carlos Henrique Mulato Eufrásio
-- Curso de Computação 
-- Universidade Estadual do Ceará
+- Curso de Licenciatura em Computação 
+- Universidade Estadual do Ceará - (UECE)
 
 - Na disciplina em questão, estou aprimorando mais ainda meus conhecimentos em Programação, principalmente na parte de Lógica de Programação
 
