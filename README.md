@@ -5,6 +5,20 @@
   <img src="https://github.com/devcarloscc.png" width="150">
 </p>
 
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github.com/SEU_USUARIO.png" width="120" alt="Minha foto">
+
+  <div>
+    <h3>Tecnologias</h3>
+    <p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
+    </p>
+  </div>
+</div>
+
+
 
 
 ### Olá, me chamo Carlos Henrique Mulato Eufrásio
