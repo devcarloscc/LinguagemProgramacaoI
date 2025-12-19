@@ -6,7 +6,6 @@
 </p>
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github.com/SEU_USUARIO.png" width="120" alt="Minha foto">
 
   <div>
     <h3>Tecnologias</h3>
