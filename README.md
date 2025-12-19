@@ -1,6 +1,11 @@
 # LinguagemProgramacaoI
 ## Disciplina de Linguagem de Programação I - Curso de Licenciatura em Computação - Universidade Estadual do Ceará
 
+
+
+
+### Olá, me chamo Carlos Henrique Mulato Eufrásio
+
 <p>
   <img src="https://github.com/devcarloscc.png" width="150">
 </p>
@@ -18,9 +23,6 @@
 </div>
 
 
-
-
-### Olá, me chamo Carlos Henrique Mulato Eufrásio
 
 - Estou cursando o curso de Licenciatura em Computação 
 - Pela Universidade Estadual do Ceará - (UECE)
